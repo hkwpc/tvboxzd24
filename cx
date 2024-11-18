@@ -200,6 +200,7 @@
   "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
+
 {"key": "sgabys","name": "華哥-星际UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 
 
