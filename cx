@@ -27,9 +27,12 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
+{"key": "cjzy_暴风资源","name": "SW-華哥 暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","欧美剧","纪录片","动作片","科幻片","剧情片","喜剧片","战争片","爱情片","泰国剧","国产动漫","大陆综艺","港台综艺","日本动漫","日本综艺","综艺频道","新马泰综艺"]},		
+
+
  {
-            "key": "華哥",
-            "name": "SW-華哥",
+            "key": "華 哥",
+            "name": "SW-華哥kuaiche",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -273,7 +276,18 @@
         },
    
 	
-		
+{"key":"苹果","name":"SW🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{
+      "key": "苹  果a",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },
+	
   
        
         {
